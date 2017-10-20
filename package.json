@@ -1,0 +1,28 @@
+{
+  "name": "tubot",
+  "version": "1.0.0",
+  "description": "hofstra hackathon 10_19",
+  "main": "index.js",
+  "scripts": {
+    "start": "node TuBot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatMasters/TuBot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "tubot"
+  ],
+  "author": "Kat Quinn and Tom Mulvey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatMasters/TuBot/issues"
+  },
+  "homepage": "https://github.com/KatMasters/TuBot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}

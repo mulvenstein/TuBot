@@ -1,0 +1,1 @@
+worker: node TuBot.js
